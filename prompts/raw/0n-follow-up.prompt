@@ -1,0 +1,9 @@
+1. For the git persona, let's use my default josed.riosc@gmail.com with signed pgp commits
+
+2. Do not co author yourself
+
+3.
+- Let's drop domain, but let's keep application, controllers, services and infrastructure as the architecture pattern for the backend, this is due the deliverables section in the PDF "Deliverables: service/controller code..."
+- Remember this also "Requirements: endpoint scoped to the authenticated trader and their tenant (cross-tenant access must fail), a Prisma schema (or SQL DDL) with at least one index you can explain, and at least one test for the snapshot logic."
+
+Everything else looks fine, continue

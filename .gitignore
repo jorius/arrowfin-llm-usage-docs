@@ -1,0 +1,7 @@
+# no dataset files, ever
+*.csv
+dataset/
+.env
+.env.*
+!.env.example
+.DS_Store
